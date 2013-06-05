@@ -17,6 +17,10 @@ local.properties
 .settings/
 proguard/dump.txt
 
+# Intellij IDEA (Android Studio)
+.idea/
+out/
+
 # Eclipse project files
 # .classpath
 # .project
